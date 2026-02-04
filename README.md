@@ -32,6 +32,8 @@ Tools and techniques for penetration testing and ethical hacking.
 * **Web Exploitation:**
     * [OWASP Top 10 Checklist](./Web-App-Sec/owasp_checklist.md) - A manual testing guide for web vulnerabilities.
     * [Burp Suite Tips](./Web-App-Sec/burp_pro_tips.md) - Automating repetitive tasks with intruder and extender.
+ 
+---
 
 ### 🛠️ Essential Offensive Tools (2026)
 | Tool | Category | Key Use Case |
@@ -51,6 +53,17 @@ Focusing on detection, response, and hardening.
     * [The Incident Response Hierarchy](./Blue-Teaming/IR_steps.md) - A step-by-step guide from detection to recovery.
 * **SIEM & Logging:**
     * [Splunk Search Cheat Sheet](https://example.com) - Essential SPL queries for hunting threats.
+
+---
+
+### 🛡️ Essential Defensive Tools (2026)
+| Tool | Category | Key Use Case |
+| :--- | :--- | :--- |
+| **[Wazuh](https://github.com/wazuh/wazuh)** | SIEM / EDR | Unified endpoint monitoring and threat detection. |
+| **[Security Onion](https://github.com/Security-Onion-Solutions/security-onion)** | Network Security | Full packet capture and network intrusion detection. |
+| **[Velociraptor](https://github.com/Velocidex/velociraptor)** | DFIR / Hunting | Remote digital forensics and endpoint querying. |
+| **[MISP](https://github.com/MISP/MISP)** | Threat Intel | Sharing and correlating indicators of compromise (IOCs). |
+| **[Gitleaks](https://github.com/gitleaks/gitleaks)** | Secret Scanning | Detecting hardcoded passwords and keys in code. |
 
 ---
 
