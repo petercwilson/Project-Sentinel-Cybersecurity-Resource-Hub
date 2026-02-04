@@ -33,6 +33,15 @@ Tools and techniques for penetration testing and ethical hacking.
     * [OWASP Top 10 Checklist](./Web-App-Sec/owasp_checklist.md) - A manual testing guide for web vulnerabilities.
     * [Burp Suite Tips](./Web-App-Sec/burp_pro_tips.md) - Automating repetitive tasks with intruder and extender.
 
+### 🛠️ Essential Offensive Tools (2026)
+| Tool | Category | Key Use Case |
+| :--- | :--- | :--- |
+| **[Nuclei](https://github.com/projectdiscovery/nuclei)** | Vuln Scanner | Template-based scanning for the latest CVEs. |
+| **[Sliver](https://github.com/BishopFox/sliver)** | C2 Framework | Modern, Go-based Command & Control for red teaming. |
+| **[BloodHound](https://github.com/BloodHoundAD/BloodHound)** | AD Enumeration | Mapping attack paths in Active Directory via Graph Theory. |
+| **[Feroxbuster](https://github.com/epi052/feroxbuster)** | Fuzzing | Ultra-fast recursive directory/file discovery. |
+| **[Caido](https://caido.io/)** | Web Proxy | Lightweight, high-performance alternative to Burp Suite. |
+
 ---
 
 ## 🛡️ Defensive Security (Blue Teaming)
